@@ -1,0 +1,9 @@
+{
+	"primarySpace": "pri=10",
+	"secondarySpace": "sec=5",
+	"spaceUnit": "cy",
+	"recordFormat": "rec=fb",
+	"recordLength": "lr=080",
+	"blkSize": "blksize=32720",
+	"directorySize": "di=900"
+}

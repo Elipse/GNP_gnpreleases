@@ -1,0 +1,37 @@
+[
+	{
+		"serverName": "INFODES",
+		"ip": "150.23.1.12",
+		"port": "21",
+		"user": "TN6EAM",
+		"password": "chetos10"
+	},
+	{
+		"serverName": "INFOPR1",
+		"ip": "150.23.1.37",
+		"port": "21",
+		"user": "TN6EAM",
+		"password": "chetos10"
+	},
+	{
+		"serverName": "INFOPRE",
+		"ip": "150.23.1.37",
+		"port": "21",
+		"user": "TN6EAM",
+		"password": "chetos10"
+	},
+	{
+		"serverName": "INFOPRO",
+		"ip": "150.23.1.39",
+		"port": "21",
+		"user": "TN6EAM",
+		"password": "chetos10"
+	},
+	{
+		"serverName": "BACKLOG",
+		"ip": "150.23.1.13",
+		"port": "21",
+		"user": "TN6EAM",
+		"password": "chetos10"
+	}
+]

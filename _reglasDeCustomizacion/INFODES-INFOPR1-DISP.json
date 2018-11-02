@@ -1,0 +1,26 @@
+[
+      
+         {  
+            "cadenaActual":"//DGA",
+            "cadenaNueva":"//BGA",
+            "condicionBusqueda":"//DGA\\w+\\s+JOB\\s+"
+         },
+         {  
+            "cadenaActual":"//DGAV",
+            "cadenaNueva":"//BGAV",
+            "condicionBusqueda":"//DGAV\\w+\\s+JOB\\s+"
+         },
+         {  
+            "cadenaActual":"\\s{1}CLASS=\\w{1}",
+            "cadenaNueva":" CLASS=L",
+            "condicionBusqueda":"//\\s+CLASS=\\w{1}"
+         },
+         {  
+            "cadenaActual":"PNCQP.",
+            "cadenaNueva":"BNCQP.",
+            "condicionBusqueda":"PNCQP."
+         }
+         
+      
+]
+

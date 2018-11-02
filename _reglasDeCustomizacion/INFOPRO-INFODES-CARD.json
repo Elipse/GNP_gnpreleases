@@ -1,0 +1,33 @@
+[
+	{
+		"cadenaActual": "PGA.",
+		"cadenaNueva": "BGA.",
+		"condicionBusqueda": " PGA\\."
+	},
+	{
+		"cadenaActual": "PGAV.",
+		"cadenaNueva": "BGAV.",
+		"condicionBusqueda": "[\\s|\\(]PGAV\\."
+	},
+	{
+		"cadenaActual": "PNCQP.",
+		"cadenaNueva": "DNCQP.",
+		"condicionBusqueda": "PNCQP."
+	},
+	{
+		"condicionBusqueda": "\\s+VOLUMES\\s+\\(\\w+\\s+\\w+\\)\\s+",
+		"cadenaActual": "\\s+VOLUMES\\s+\\(\\w+\\s+\\w+\\)",
+		"cadenaNueva": "\n  VOLUMES (WDSH14 WDSH15 WDSH16 WDSH17 WDSH18)"
+	},
+	{
+		"condicionBusqueda": "NPMPR\\.",
+		"cadenaActual": "NPMPR\\.",
+		"cadenaNueva": "NPMDS."
+	},
+	{
+		"condicionBusqueda": "DB2P",
+		"cadenaActual": "DB2P",
+		"cadenaNueva": "DB2D"
+	}
+]
+

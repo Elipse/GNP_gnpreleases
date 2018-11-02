@@ -1,0 +1,21 @@
+[
+      
+         {  
+            "cadenaActual":"//DGA",
+            "cadenaNueva":"//BGA",
+            "condicionBusqueda":"//DGA\\w+\\s+JOB\\s+"
+         },
+         {  
+            "cadenaActual":"\\s{1}CLASS=\\w{1}",
+            "cadenaNueva":" CLASS=L",
+            "condicionBusqueda":"//\\s+CLASS=\\w{1}"
+         },
+         {  
+            "cadenaActual":"DNCQP.",
+            "cadenaNueva":"BNCQP.",
+            "condicionBusqueda":"DNCQP."
+         }
+         
+      
+]
+
